@@ -59,3 +59,6 @@ node index.js
 ```
 
 anyways feels free to read for more information at https://github.com/realcoloride/node_characterai/blob/main/README.md
+
+## Some Usages
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/89e36583-3965-4573-93c7-b390ca8807f6">
