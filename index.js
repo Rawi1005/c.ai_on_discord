@@ -4,7 +4,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBit
 const axios = require('axios');
 
 
-const channelId = '1270189477821808804'; // Replace with your specific channel ID
+const channelId = ''; // Replace with your specific channel ID
 
 // Authenticate with the AI service when the bot starts
 
